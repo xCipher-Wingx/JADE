@@ -1,2 +1,2 @@
 "# JADE" 
-hehe 
+Check the wiki.
